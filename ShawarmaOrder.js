@@ -2,9 +2,9 @@ const Order = require("./Order");
 
 let drink_cost = 0;
 
-const large_size = 15;
-const medium_size = 12;
-const small_size = 10;
+const large_size = 115;
+const medium_size = 112;
+const small_size = 1011;
 
 const OrderState = Object.freeze({
     WELCOMING:   Symbol("welcoming"),
